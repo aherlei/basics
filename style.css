@@ -1,0 +1,23 @@
+/* ********************************************* */
+/*       Estilo para styletext.css               */
+/*      autor: antonio jesus heredia leiva       */
+/*       version: 1.0                            */
+/*      comentario: jajajaja                     */
+/* ********************************************* */
+
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+h2{
+    color: salmon;
+}
+#encabezadop1 {
+    text-align: right;
+}
+.centrado {
+    text-align: center;
+}
+/* Selector contextual: añade contexto, mas de un selector separados con espacios */
+.centrado b{color: red;}
